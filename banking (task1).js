@@ -1,3 +1,5 @@
+//Parameter 'id' uses person's name to find nested array
+ 
 const directory = [['Rohit',80340.77],['Vansh',59000.24],['Kiran',36400.41],['Tejas',62390.67],['Rita',38087.89]]
 
 function deposit(id,amount){
